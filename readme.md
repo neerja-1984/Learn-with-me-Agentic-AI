@@ -5,7 +5,8 @@
     - uses math function / printh function ( simple function involving no risk )
     - to import other function : 
 
-    ```python 
+
+```python 
 from smolagents import CodeAgent
 
 # Initialize the CodeAgent
